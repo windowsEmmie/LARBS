@@ -72,4 +72,4 @@ G,https://github.com/windowsEmmie/st,"is my fork of Luke's custom build of suckl
 ,docx2txt,"enables .docx file previews in vifm."
 ,odt2txt,"enables .odt file previews in vifm."
 ,go,"the standard go compiler."
-,go-tools,"developer tools for the go programming language"
+,go-tools,"developer tools for the go programming language."
