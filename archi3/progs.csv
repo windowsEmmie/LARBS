@@ -71,3 +71,5 @@ G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for
 G,https://github.com/windowsEmmie/st,"is my fork of Luke's custom build of suckless's terminal emulator."
 ,docx2txt,"enables .docx file previews in vifm."
 ,odt2txt,"enables .odt file previews in vifm."
+,go,"the standard go compiler."
+,go-tools,"developer tools for the go programming language"
