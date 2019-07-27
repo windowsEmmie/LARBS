@@ -1,6 +1,7 @@
 #!/bin/sh
 # Luke's Auto Rice Boostrapping Script (LARBS)
-# by Luke Smith <luke@lukesmith.xyz>
+# Original by Luke Smith <luke@lukesmith.xyz>
+# Forked by Emmie Corday <emmie@emmie.moe>
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
